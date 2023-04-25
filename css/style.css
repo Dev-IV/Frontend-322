@@ -586,7 +586,7 @@ main {
 }
 
 footer {
-  background-color: #F9FAFB;
+  background-color: var(--body-color);
   padding: 64px 0 24px 0;
 }
 
